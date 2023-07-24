@@ -147,7 +147,7 @@ node --v
 
 - GitHub: [Ansar Ibrahim](https://github.com/AnsarIbrahim)
 - Twitter: [Ansar Ibrahim](https://twitter.com/ansaradheeb)
-- LinkedIn: [Ansar Ibrahim](https://linkedin.com/in/ansar-ibrahim-61447424a/)
+- LinkedIn: [Ansar Ibrahim](https://www.linkedin.com/in/ansar-ibrahim/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
